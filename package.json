@@ -1,0 +1,19 @@
+{
+  "name": "inbox_sol",
+  "version": "1.0.0",
+  "description": "Creating a smart contract that can save and update a message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azarch1/inbox_sol.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azarch1/inbox_sol/issues"
+  },
+  "homepage": "https://github.com/Azarch1/inbox_sol#readme"
+}
