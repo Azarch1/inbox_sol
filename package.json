@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Azarch1/inbox_sol/issues"
   },
-  "homepage": "https://github.com/Azarch1/inbox_sol#readme"
+  "homepage": "https://github.com/Azarch1/inbox_sol#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
